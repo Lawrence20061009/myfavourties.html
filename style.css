@@ -1,0 +1,18 @@
+html {
+  background-color: bisque;
+  margin: 50px auto;
+  width: 500px;
+  border: solid;
+  padding-left: 25px;
+}
+h1 {
+  color: red;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+h2 {
+  color: blueviolet;
+  text-decoration: underline;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
